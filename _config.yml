@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://keulraesik.github.io/
+name: 0x3BA
+author: keulraesik
+qq: 121632703
+email: keulraesik[At]gmail.com
+duoshuo: keulraesik
+beian: null
+cnzz: 0
+weibo: 0
+github: keulraesik
+highlighter: pygments
+safe: true
+paginate: 20
+about: "这里是 Keulraesik 的个人博客，创建于 2015 年。"
