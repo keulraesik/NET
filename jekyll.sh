@@ -1,2 +1,3 @@
 #!/bin/sh
-jekyll serve --watch  -d x:/TEMP/jekyll
+
+jekyll.bat serve --watch  -d x:/TEMP/jekyll
